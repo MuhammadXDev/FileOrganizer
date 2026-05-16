@@ -13,3 +13,4 @@ foreach ($file in $files) {
     }
 }
 # my frist update
+# support pdf files
